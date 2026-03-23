@@ -9,6 +9,9 @@ Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sist
 # Como baixar
 Vá em 'Releases', lá você poderá baixar o código-fonte e a ISO! Tudo em .rar, afinal eu tô com preguiça de enviar arquivos pra cá.
 
+# Como inicializar em seu PC
+Use Ventoy.
+
 # Autor + Copyright
 
 Feito por StanoXBMC
