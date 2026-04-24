@@ -10,7 +10,7 @@ Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sist
 Vá em 'Releases', lá você poderá baixar o código-fonte e a ISO! Tudo em .rar, afinal eu tô com preguiça de enviar arquivos pra cá.
 
 # Como inicializar em seu PC
-Use Ventoy.
+Use Ventoy. Mas ei, desativa seu drive local, eu não me responsabilizo por qualquer dano que acontecer no teu PC... Afinal isso aqui tá na pre-alpha.
 
 # Autor + Copyright
 
