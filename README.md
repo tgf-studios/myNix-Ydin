@@ -28,9 +28,7 @@ Positivo Master D380 (desktop que usei pra desenvolver este OS)
 
    RAM: 16 GB
 
-   OS principal: Windows 10
-
-   OS usado no desenvolvimento: Debian 13
+   OS: Windows 10 (com WSL2, Ubuntu)
 
 # Vai ser usado no futuro como
 
