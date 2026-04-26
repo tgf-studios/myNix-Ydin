@@ -2,9 +2,9 @@
 
 ![myNix Ydin BootLogo](ydinbootlogo.bmp)
 
-myNix Ydin é um sistema operacional feito tanto por uma pessoa, quanto por uma IA, o Claude.
+myNix Ydin é um sistema operacional feito tanto por um humano, quanto por uma IA, o Claude.
 
-Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sistema operacional. (se der errado eu vou apagar essa linha)
+Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sistema operacional. (eu juro que se der errado eu vou apagar essa linha)
 
 # Como baixar
 Vá em 'Releases', lá você poderá baixar o código-fonte e a ISO! Tudo em .rar, afinal eu tô com preguiça de enviar arquivos pra cá.
