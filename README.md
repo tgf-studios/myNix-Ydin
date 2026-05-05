@@ -4,7 +4,7 @@
 
 myNix Ydin é um sistema operacional feito tanto por um humano, quanto por uma IA, o Claude.
 
-Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sistema operacional. (eu juro que se der errado eu vou apagar essa linha)
+Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sistema operacional. (eu juro que se der errado eu vou apagar essa linha (eu acho que vai dar errado :3))
 
 # Como baixar
 Vá em 'Releases', lá você poderá baixar o código-fonte e a ISO da versão desejada.
