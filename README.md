@@ -10,7 +10,7 @@ Isso foi feito para mostrar que, com paciência, você pode criar um ótimo sist
 Vá em 'Releases', lá você poderá baixar o código-fonte e a ISO da versão desejada.
 
 # Como inicializar em seu PC
-Use Ventoy. Mas ei, desativa seu drive local na BIOS, eu não me responsabilizo por qualquer dano que acontecer no teu PC... Afinal isso aqui tá na pre-alpha.
+Use Ventoy. Mas ei, desativa seu drive local na BIOS, eu não me responsabilizo por qualquer dano que acontecer no teu PC... Afinal isso aqui tá em estado alpha.
 
 # Autor + Copyright
 
