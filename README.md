@@ -1,6 +1,6 @@
 # myNix Ydin
 
-![myNix Ydin BootLogo](ydinbootlogo.bmp)
+![myNix Ydin BootLogo](ydinbootlogo.bmp) ![myNix Ydin BootAnim](ydinbootanimpreview.gif)
 
 myNix Ydin é um sistema operacional feito tanto por um humano, quanto por uma IA, o Claude.
 
